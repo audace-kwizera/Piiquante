@@ -22,3 +22,4 @@ The app should reload automatically when you make a change to a file.
 
 Use `Ctrl+C` in the terminal to stop the local server.
 # P6_Kwizera_Audace
+# P6_Kwizera_Audace
